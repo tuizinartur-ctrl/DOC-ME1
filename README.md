@@ -1,13 +1,13 @@
 # DOC-ME1
 Integrantes:
-- Artur Eduardo 26106336
-- Vicente Rodrigues
-- Pedro
+- Artur Eduardo, 261063366
+- Vicente Rodrigues, 26107097
+- Pedro Molinaro,26106985
 
 
 
 ## 📌 Descrição
-Nosso trabalho consiste em um programa
+Nosso trabalho consiste 
 
 ## 🚀 Funcionalidades
 - [ ] Cadastro de usuários.
